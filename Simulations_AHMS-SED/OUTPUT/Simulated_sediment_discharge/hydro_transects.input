@@ -1,0 +1,10 @@
+	8 transects			! number of transects
+	lon1    lon2       lat1   lat2   ! (lon1,lat1) <---> (lon2,lat2)
+	100.40,	 99.95,	35.5,	35.5 ! transect 1, Tangnaihe
+        103.90, 103.90, 35.9,   36.4 ! transect 2, Lanzhou
+        110.06, 111.06, 40.1,   40.5 ! transect 3, Toudaoguai
+	110.30,	110.90,	35.7,	35.7 ! transect 4, Longmen
+        111.37, 111.37, 34.6,   35.0 ! transect 5, Sanmenxia
+        113.40, 113.00, 34.7,   35.2 ! transect 6, Huayuankou
+        109.5,  109.5,  34.4,   34.8 ! transect 7, Huaxian
+        110.80, 110.80, 35.8,   35.4 ! transect 8, Hejin
