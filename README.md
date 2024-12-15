@@ -8,12 +8,12 @@ We employed the online AHMS-IRRIG and AHMS-SED models to simulate the hydrologic
 
 # AHMS-IRRIG Simulation
 
-INPUT_DATA/: Contains input data required for running the Noah-MP and HMS components of the AHMS-IRRIG model.
+INPUT_DATA/: Contains geo-static input data required for running the Noah-MP and HMS components of the AHMS-IRRIG model.
 
 OUTPUT_DATA/: Contains the output files from the AHMS-IRRIG model, including simulated hydrological and irrigation results.
 
 # AHMS-SED Simulation
-INPUT_DATA/: Contains input data required for running the Noah-MP and HMS components of the AHMS-SED model.
+INPUT_DATA/: Contains geo-static input data required for running the Noah-MP and HMS components of the AHMS-SED model.
 
 JAMES_Figures/: Includes visual representations, such as sediment transport plots, generated for the JAMES submission.
 
