@@ -4,7 +4,7 @@ Within this folder, you'll find both offline AHMS-IRRIG and AHMS-SED model input
 This folder contains model input data, simulation results, and corresponding observational data for water and sediment discharge in the Yellow River Basin. The data and results presented here support the simulation of hydrological, irrigation, and sediment processes using the AHMS-IRRIG and AHMS-SED models.
 
 # Overview
-We employed the online AHMS-IRRIG and AHMS-SED models to simulate the hydrological, irrigation, and sediment dynamics in the Yellow River Basin from 1979 to 1987 at a spatial resolution of 20 km. These models integrate advanced hydrological and sediment transport processes to provide detailed insights into the region’s water and sediment balance.
+We employed the offline AHMS-IRRIG and AHMS-SED models to simulate the hydrological, irrigation, and sediment dynamics in the Yellow River Basin from 1979 to 1987 at a spatial resolution of 20 km. These models integrate advanced hydrological and sediment transport processes to provide detailed insights into the region’s water and sediment balance.
 
 # AHMS-IRRIG Simulation
 
